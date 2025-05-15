@@ -1,6 +1,7 @@
 {
   "name": "portfolioo",
   "version": "0.1.0",
+  "homepage": "https://Srashti-r.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
@@ -55,5 +56,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
